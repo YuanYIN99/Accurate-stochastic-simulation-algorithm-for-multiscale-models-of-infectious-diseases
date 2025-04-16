@@ -6,4 +6,4 @@ by Yuan Yin, Jennifer A. Flegg, Mark B. Flegg
 
 https://doi.org/10.48550/arXiv.2406.05058
 
-Note this repository is an update for https://github.com/YuanYIN99/MultiscaleSSA.git (also my Github account).
+Note this repository is an update for https://github.com/Rebecca-yinyuan/MultiscaleSSA.git (also my Github account).
